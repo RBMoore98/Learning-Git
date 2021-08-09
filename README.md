@@ -4,6 +4,4 @@
 
 ## This repo was used to learn git with Amigoscode
 
-www.amigoscode.com/courses/git-github
-
-
+Course: [Git and Github Essentials](https://amigoscode.com/courses/git-github)
